@@ -1,2 +1,1 @@
-# Verifiet Go
-Go library for the Verifiet API.
+#Verifiet API PHP Library
